@@ -12,5 +12,5 @@ Beverages
 |:----------|-----------|-----------------|
 | Sarocha | Breakfast Menu | @pimmimagi|
 | Pontakorn       | Dinner Menu       | @pontakornth      |
-| Raweerot Panichsin | Lunch Menu | MyLife4What |
+| Raweerot Panichsin | Lunch Menu | @MyLife4What |
 | Poomtum   | Night Food| @TopsonArcana   |
