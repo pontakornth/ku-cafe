@@ -3,9 +3,12 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Rice congee                           |  60.0  |
+| French Toast                          |  120.0  |
+| Omelette                              |  150.0  |
+| Salad                                 |  100.0  | 
 
 ## Lunch 
 
