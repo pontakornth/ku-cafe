@@ -15,10 +15,10 @@
 
 | Item      | Price   |
 |:-----------|--------|
-| Beef Steak | 200.0 |
-| Chuck roasts  | 200.0 |
-| Fish and Chips| 100.0 |
-| Spaghetti Carbonara| 140.0 |
+| Beef Steak | 200 |
+| Chuck roasts  | 200 |
+| Fish and Chips| 100 |
+| Spaghetti Carbonara| 140 |
 
     
 ## Dinner
