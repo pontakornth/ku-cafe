@@ -41,6 +41,17 @@
 | T-Bone Steak                           |  500  |
 
 ## Beverages
+ Item               | Price |
+|:------------------|-----:|
+| Americano         | 40  |
+| Coke              | 30  |
+| Hot Tea           | 50  |
+| Iced Latte        | 70  |
+| Iced Cappucino    | 70  |
+| Iced Chocolate    | 60  |
+| Ice Matcha        | 60  |
+| Milk Tea          | 30  |
+| Pepsi             | 25  |
 
 
 
