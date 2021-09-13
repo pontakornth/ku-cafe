@@ -15,12 +15,12 @@
 
 ## Dinner
    
-    | Item | Price |
-    | ---- | ---- |
-    | Maximum Beef Steak | 300 |
-    | Maximum Pork Steak | 250 |
-    | Roasted Beef       | 120 |
-    | Roasted Chicken    | 120  |
+| Item | Price |
+|:------------------| -----:|
+| Maximum Beef Steak | 300 |
+| Maximum Pork Steak | 250 |
+| Roasted Beef       | 120 |
+| Roasted Chicken    | 120 |
 
 
 ## Night Food
