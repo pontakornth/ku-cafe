@@ -11,4 +11,7 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Sarocha | Breakfast Menu | @pimmimagi|
+| Pontakorn       | Dinner Menu       | @pontakornth      |
+| Raweerot Panichsin | Lunch Menu | MyLife4What |
 | Setthanat | Berverage menu | Ing140943 |
