@@ -2,7 +2,7 @@
 
 [Breakfast Menu](Menu.md#-breakfast-menu)   
 Lunch Menu  
-Dinner Menu  
+[Dinner Menu](Menu.md#-dinner-menu)
 Night Food Menu  
 Beverages  
 
@@ -13,4 +13,4 @@ Beverages
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
 | Sarocha | Breakfast Menu | @pimmimagi|
-| ...       | ...       | ...      |
+| Pontakorn       | Dinner Menu       | @pontakornth      |
