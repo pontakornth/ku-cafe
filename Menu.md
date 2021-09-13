@@ -15,7 +15,7 @@
 ## Lunch 
 
 | Item      | Price   |
-|:-----------|--------|
+|:-----------|--------:|
 | Beef Steak | 200 |
 | Chuck roasts  | 200 |
 | Fish and Chips| 100 |
