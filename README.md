@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-[Beverages](Menu.md#-bervergaes-menu)  
+[Beverages](Menu.md#-bervergaes-menu)       
 
 
 ## About Us
@@ -13,5 +13,5 @@
 |:----------|-----------|-----------------|
 | Sarocha | Breakfast Menu | @pimmimagi|
 | Pontakorn       | Dinner Menu       | @pontakornth      |
-| Raweerot Panichsin | Lunch Menu | MyLife4What |
-| Setthanat | Berverage menu | Ing140943 |
+| Raweerot Panichsin | Lunch Menu | @MyLife4What |
+| Setthanat | Berverage menu | @Ing140943 |
