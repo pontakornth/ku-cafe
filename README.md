@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-[Beverages Menu](Menu.md/#Beverage%20Menu)
+[Beverages](Menu.md#-bervergaes-menu)  
 
 
 ## About Us

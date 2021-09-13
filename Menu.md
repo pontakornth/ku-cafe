@@ -27,7 +27,7 @@
 | Iced Chocolate    | 60  |
 | Ice Matcha        | 60  |
 | Milk Tea          | 30  |
-| Pepsi             | 30  |
+| Pepsi             | 25  |
 
 
 
