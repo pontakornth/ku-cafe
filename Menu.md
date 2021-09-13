@@ -3,6 +3,7 @@
 
 ## Breakfast
 
+
 | Item                                   | Price |
 |:---------------------------------------|------:|
 | French Toast                          |  120  |
@@ -32,7 +33,12 @@
 
 
 ## Night Food
-
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Aglio Olio                             |  250  | 
+| French Fries                           |  120  |
+| Salmon Fillet                          |  300  |
+| T-Bone Steak                           |  500  |
 
 ## Beverages
  Item               | Price |
