@@ -12,10 +12,10 @@
 ## Night Food
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Aglio Olio                             |  250.0  | 
-| French Fries                           |  120.0  |
-| Salmon Fillet                          |  300.0  |
-| T-Bone Steak                           |  500.0  |
+| Aglio Olio                             |  250  | 
+| French Fries                           |  120  |
+| Salmon Fillet                          |  300  |
+| T-Bone Steak                           |  500  |
 
 ## Beverages
 
