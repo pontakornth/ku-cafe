@@ -5,10 +5,10 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Rice congee                           |  60.0  |
-| French Toast                          |  120.0  |
-| Omelette                              |  150.0  |
-| Salad                                 |  100.0  | 
+| French Toast                          |  120  |
+| Omelette                              |  150  |
+| Rice congee                           |  60   |
+| Salad                                 |  100  | 
 
 ## Lunch 
 
