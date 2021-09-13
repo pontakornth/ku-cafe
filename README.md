@@ -1,7 +1,6 @@
 # KU Cafe
 
 [Breakfast Menu](Menu.md#-breakfast-menu)   
-Lunch Menu  
 [Dinner Menu](Menu.md#-dinner-menu)
 [Lunch Menu](Menu.md#-lunch-menu)  
 Dinner Menu  
